@@ -5,10 +5,6 @@ import interfaces.Deque;
 import java.util.Iterator;
 
 public class ArrayDeque<E> implements Deque<E> {
-
-    
-
-
     @Override
     public void add(E Element) {
 
